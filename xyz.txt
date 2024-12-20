@@ -1,3 +1,8 @@
 <h2>Hello Hyderabad</h2>
+<<<<<<< HEAD
 <h2> modified Bangalore</h2>
 <h2>merged by Bangalore</h2>
+=======
+<h2> modified banglore</h2>
+<h2>Again Modified</h2>
+>>>>>>> 9cb0ffb2b6fe21052ddebd76cad67a72af78c390
